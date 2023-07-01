@@ -1,7 +1,7 @@
 {
-    "name": "Ultraviolet App",
-    "description": "Node.js Ultraviolet instance",
-    "repository": "https://github.com/titaniumnetwork-dev/ultraviolet-web-app",
-    "logo": "https://github.com/titaniumnetwork-dev/Ultraviolet/blob/main/uv.png?raw=true",
-    "keywords": ["tomp", "ultraviolet"]
+    "name": "CybriaBrowser",
+    "description": "A Web Proxy with TompHTTP bare server included.",
+    "repository": "https://github.com/CybriaTech/CybriaBrowser",
+    "logo": "https://i.imgflip.com/736pg8.jpg?a468672",
+    "keywords": ["cybriatech"]
 }
