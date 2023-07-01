@@ -139,13 +139,15 @@
         <a class="pointer"
           onclick='toggleId("optionsdrop");document.querySelector("body").requestFullscreen()'>Fullscreen window</a>
         <a class="pointer"
+        onclick="location.href=__uv$config.prefix+xor.encode('https://cybriatech.github.io')"
+	class="crm">CybriaTech</a>
+        <a class="pointer"
           onclick='toggleId("optionsdrop");skipAd()'>Skip YT AD</a>
         <a class="pointer" onclick='toggleId("optionsdrop", "searchDrop")'>Set search engine</a>
       </div>
       <div id="uadrop" class=dropdown-content>
         <a class="pointer tooldivd" onclick='toggleId("uadrop", "optionsdrop");'>back</a>
         <div class="dividersua"></div>
-        <a>Set The Useragent (currently not working)</a>
         <a class="pointer inp"><input class="aa" id="ua" type='text' /></a>
         <a class="pointer" onclick='document.cookie=`cua=${localStorage.getItem("ua")}`; toggleId("uadrop");'>Apply</a>
       </div>
