@@ -8,7 +8,7 @@ For Some reason, Deploying ultraviolet Powered Proxies To Vercel, Netlify, Githu
 
 # Solutions
 
-There Are coding IDEs That Do Support Proxies, like Replit, Koyeb, Heroku, Render, Cyclic, Glitch, Railway, CodeSandbox
+There Are coding IDEs That Do Support Proxies, like Replit, Koyeb (Requires Payment), Heroku, Render, Cyclic, Glitch, Railway, CodeSandbox
 
 # Deploy To Production
 <br>
