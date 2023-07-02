@@ -1,16 +1,16 @@
-<h1 align="center">CybriaBrowser</h1>
+# CybriaBrowser
 
-<h4 align="center">CybriaBrowser Is A Sophisticated Web Proxy Made to Bypass blocker Extensions</h4>
+CybriaBrowser Is A Sophisticated Web Proxy Made to Bypass blocker Extensions
 
-<h1 align="center">Deploy Issues</h1>
+# Deploy Issues
 
-<h4 align="center">For Some reason, Deploying ultraviolet Powered Proxies To Vercel, Netlify, Github Pages, Gitlab Pages Or Cloudfare Pages, They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work. In Simplified Terms, They are like stationary hosts that serve as a file system for websites, allowing them to be accessed on the internet.</h4>
+For Some reason, Deploying ultraviolet Powered Proxies To Vercel, Netlify, Github Pages, Gitlab Pages Or Cloudfare Pages, They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work. In Simplified Terms, They are like stationary hosts that serve as a file system for websites, allowing them to be accessed on the internet.
 
-<h1 align="center">Solutions</h1>
+# Solutions
 
-<h4 align="center">There Are coding IDEs That Do Support Proxies, like Replit, Koyeb, Heroku, Render, Cyclic, Glitch, Railway, CodeSandbox</h4>
+There Are coding IDEs That Do Support Proxies, like Replit, Koyeb, Heroku, Render, Cyclic, Glitch, Railway, CodeSandbox
 
-<h1 align="center>Deploy To Production</h1>
+# Deploy To Production
 
 <div align="center">
     <a href="https://app.cyclic.sh/api/app/deploy/amethystnetwork-dev/Hypertabs"><img height="30px" src="https://img.shields.io/badge/cyclic-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
@@ -19,3 +19,5 @@
     <a href="https://replit.com/github/CybriaTech/CybriaBrowser"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
     <a href="https://railway.app/new/template/EBnCyy?referralCode=8zUUBB"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
 </div>
+
+
