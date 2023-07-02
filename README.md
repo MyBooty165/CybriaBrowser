@@ -12,4 +12,4 @@ There Are coding IDEs That Do Support Proxies, like Replit, Koyeb, Heroku, Rende
 
 # Deploy In Production
 
-    <a href="https://replit.com/github/CybriaTech/CybriaBrowser"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
+    <a href="https://replit.com/github/CybriaTech/CybriaBrowser"><img height="30px" src="replit.svg"><img></a>
